@@ -27,7 +27,7 @@ This procedure explains how to add a new employee to the SimpleERP system.
    - Designation
    - Date of Joining
    - Email Address
-7. Click **Save**.
+6. Click **Save**.
 
 ## Expected Result
 
