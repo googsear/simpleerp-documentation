@@ -17,13 +17,17 @@ This procedure explains how to add a new employee to the SimpleERP system.
 3. Select **Employee Management**.
 4. Click **Add Employee**.
 5. Enter the employee details:
-   - Employee Name
-   - Employee ID
-   - Department
+
+   **Mandatory fields:**
+   - Employee Name *
+   - Employee ID *
+   - Department *
+
+   **Optional fields:**
    - Designation
    - Date of Joining
    - Email Address
-6. Click **Save**.
+7. Click **Save**.
 
 ## Expected Result
 
